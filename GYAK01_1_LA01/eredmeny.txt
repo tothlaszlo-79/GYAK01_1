@@ -1,0 +1,6 @@
+65	 Nagy Attila	95	395
+15	 Kis Lajos	100	434
+48	 Kerekes Elek	111	384
+48	 Papp Zsolt	150	385
+17	 Varga Csaba	120	416
+43	 Anatoly	98	2000
